@@ -1,0 +1,3 @@
+<%= "Simple ERB Test" %>
+
+Test
