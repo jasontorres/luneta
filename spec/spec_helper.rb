@@ -1,6 +1,7 @@
 require 'minitest/spec'
 require 'minitest/autorun'
 
+require 'rack/test'
 require 'luneta'
 
 def sample_file(filename)

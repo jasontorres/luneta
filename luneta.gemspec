@@ -20,6 +20,7 @@ Gem::Specification.new do |s|
 
   # specify any dependencies here; for example:
   s.add_development_dependency "minitest", "~> 4.2.0"
+  s.add_development_dependency "rack-test"
   s.add_runtime_dependency "tilt"
   s.add_runtime_dependency "rack"
 end
